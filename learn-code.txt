@@ -1,0 +1,6 @@
+Belajar Ngoding
+-Belajar CSS
+-Belajar HTML
+-Belajar JS
+-Belajar React dan framework lainnya
+-Belajar python
