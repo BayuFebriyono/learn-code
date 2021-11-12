@@ -1,9 +1,13 @@
 Belajar Ngoding
 -Belajar CSS
+  *tailwind
+  *bootstrap
 -Belajar HTML
 -Belajar JS
+  *vue
 -Belajar React dan framework lainnya
 -Belajar python
 -Belajar Jaringan
 -Mencoba yang realistis
 -Membuat Compiler Sendiri
+-Membuat Trading
