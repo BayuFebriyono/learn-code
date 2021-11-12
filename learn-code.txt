@@ -1,7 +1,7 @@
 Belajar Ngoding
 -Belajar CSS
+  *tailwind
   *bootstrap
-  *materilize
 -Belajar HTML
 -Belajar JS
   *vue
@@ -10,3 +10,4 @@ Belajar Ngoding
 -Belajar python
 -Belajar Jaringan
 -Membuat Compiler Sendiri
+-Membuat Trading
