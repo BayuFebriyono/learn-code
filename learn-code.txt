@@ -6,3 +6,4 @@ Belajar Ngoding
 -Belajar python
 -Belajar Jaringan
 -Mencoba yang realistis
+-Membuat Compiler Sendiri
