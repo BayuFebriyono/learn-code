@@ -1,9 +1,12 @@
 Belajar Ngoding
 -Belajar CSS
+  *bootstrap
+  *materilize
 -Belajar HTML
 -Belajar JS
+  *vue
+  *react
 -Belajar React dan framework lainnya
 -Belajar python
 -Belajar Jaringan
--Mencoba yang realistis
 -Membuat Compiler Sendiri
