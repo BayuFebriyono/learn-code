@@ -4,3 +4,5 @@ Belajar Ngoding
 -Belajar JS
 -Belajar React dan framework lainnya
 -Belajar python
+-Belajar Jaringan
+-Mencoba untuk terbang
