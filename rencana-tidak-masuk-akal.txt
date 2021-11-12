@@ -1,3 +1,5 @@
 -Terbang
+* jatuh dengan gaya
+* berlari dengan cepat
 -Berlari di air
 -Tahan api
